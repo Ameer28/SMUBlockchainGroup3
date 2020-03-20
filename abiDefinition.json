@@ -1,0 +1,16 @@
+{
+    "contractName": "WillContract",
+    "abi": [{
+        "constant": false,
+        "inputs": [{
+            "name": "assetHash",
+            "type": "string"
+        }],
+        "name": "registerAsset",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function",
+        "signature": "0x1ec04081"
+    }]
+}
